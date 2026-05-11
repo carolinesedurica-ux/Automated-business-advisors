@@ -1,0 +1,13 @@
+{
+  "name": "AegisMind Clinical Integrity Engine",
+  "description": "An AI-powered clinical integrity and accreditation engine optimized for the Australian National Standards for Mental Health Services (NSMHS).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered audit agents",
+    "Clinical evidence scanning",
+    "Accreditation readiness scoring",
+    "Remediation strategy generation"
+  ]
+}
